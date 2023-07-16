@@ -9,4 +9,6 @@ With this software, developers can easily streamline their workflow, accelerate 
 
 Experience the convenience and efficiency of CodeBlockBuilder and bring your web projects to life with ease.
 
+<br><hr><br>
+
 # Docs
