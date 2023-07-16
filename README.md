@@ -1,6 +1,7 @@
 
-![CodeSnippetBuilder](https://github.com/Mc0Shell/CodeSnippetBuilder/assets/55066055/d216011c-32d0-4fa5-861e-281d030728c1)
-# CodeBlockBuilder is a powerful software tool designed to simplify web development by generating code blocks in various languages such as HTML, JavaScript, and CSS.
+# ![CodeSnippetBuilder](https://github.com/Mc0Shell/CodeSnippetBuilder/assets/55066055/d216011c-32d0-4fa5-861e-281d030728c1)
+
+CodeBlockBuilder is a powerful software tool designed to simplify web development by generating code blocks in various languages such as HTML, JavaScript, and CSS.
 
 
 CodeBlockBuilder serves as a versatile framework for both general graphical elements and seamless inter-page processes, including complex logical operations.
