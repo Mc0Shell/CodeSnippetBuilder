@@ -16,4 +16,4 @@ Experience the convenience and efficiency of CodeBlockBuilder and bring your web
 
 <h2>Topbar call</h2>
 
-    <h3>webBuilder.editNavbarColors('navbarB', 'navlink', "blue", "white", "blue");</h3>
+    webBuilder.editNavbarColors('navbarB', 'navlink', "blue", "white", "blue");
