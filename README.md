@@ -67,7 +67,7 @@ In development mode you need to force the reload of the css and js files adding 
 ```javascript
 webBuilder.addHTMLBlock("navbar", {
     'Logo':'/img/logo/logo.png', 
-     'Home':'/', 
+    'Home':'/', 
     'Docs':'/docs',
     'Downloads':'/downloads',
     'About':'/about'
