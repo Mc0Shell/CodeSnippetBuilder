@@ -18,11 +18,11 @@ Experience the convenience and efficiency of CodeBlockBuilder and bring your web
 # Docs
 <b> How to start </b>
 
-        <!DOCTYPE html>
-        <html>
-        	<head>
-        		<link rel="stylesheet" href="/CodeSnippetBuilder/css/style.css ?>"></style>
-        	</head>
+      <!DOCTYPE html>
+      <html>
+        <head>
+        	<link rel="stylesheet" href="/CodeSnippetBuilder/css/style.css ?>"></style>
+        </head>
         	<body>
         		
         		<div id="generatedPage"></div>
