@@ -17,8 +17,8 @@ Experience the convenience and efficiency of CodeBlockBuilder and bring your web
 
 # Docs
 <b> How to start </b>
-<h2> To generate a page you must first import the CSS style and the two JS files.
-The first JS file creates the webBuilder structure, the second file initializes it, furthermore it is necessary to create a further script to insert all the commands which will then generate the page.</h2>
+<h3> To generate a page you must first import the CSS style and the two JS files.
+The first JS file creates the webBuilder structure, the second file initializes it, furthermore it is necessary to create a further script to insert all the commands which will then generate the page.</h3>
 ```html
 <!DOCTYPE html>
 <html>
