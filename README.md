@@ -51,6 +51,12 @@ The first JS file creates the webBuilder structure, the second file initializes 
 </html>
 ```
 
+In development mode you need to force the reload of the css and js files adding the timestamp in the file url
+
+      <link rel="stylesheet" href="/CodeSnippetBuilder/css/style.css?timestamp=<?php echo time(); ?>"></style>
+    
+<hr>
+
 <b> Is possible to interact with every element in the page, all in JS </b>
 
 <h2>Topbar calls</h2>
