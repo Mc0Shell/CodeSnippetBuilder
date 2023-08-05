@@ -16,6 +16,38 @@ Experience the convenience and efficiency of CodeBlockBuilder and bring your web
 <br><br><hr><br>
 
 # Docs
+<b> How to start </b>
+
+        <!DOCTYPE html>
+        <html>
+        	<head>
+        		<link rel="stylesheet" href="/CodeSnippetBuilder/css/style.css ?>"></style>
+        	</head>
+        	<body>
+        		
+        		<div id="generatedPage"></div>
+        		
+        		<script src="/CodeSnippetBuilder/WebBuilder.js"></script>
+        		<script src="/CodeSnippetBuilder/main.js"></script>
+        		<script>
+        			// Initialize the WebBuilder
+        			const webBuilder = initWebBuilder();
+        			
+        			// Add a navbar block
+        			webBuilder.addHTMLBlock("navbar", {
+        				'Logo':'/img/logo/logo2.png', 
+        				'Home':'/', 
+        				'Docs':'/docs',
+        				'Downloads':'/downloads',
+        				'About':'/about'
+        			});
+           
+        			// Render the page with the added and/or modified blocks
+        			webBuilder.insertGeneratedPage('generatedPage');
+        		</script>
+        	</body>
+        </html>
+
 <b> Is possible to interact with every element in the page, all in JS </b>
 
 <h2>Topbar calls</h2>
