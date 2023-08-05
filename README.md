@@ -24,7 +24,7 @@ The first JS file creates the webBuilder structure, the second file initializes 
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" href="/CodeSnippetBuilder/css/style.css ?>"></style>
+    <link rel="stylesheet" href="/CodeSnippetBuilder/css/style.css"></style>
   </head>
   <body>  		
     <div id="generatedPage"></div>
