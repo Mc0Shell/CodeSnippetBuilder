@@ -15,7 +15,7 @@ Experience the convenience and efficiency of CodeBlockBuilder and bring your web
 
 <br><br><hr><br>
 
-# Docs
+# Docss
 <b> How to start </b>
 
     <!DOCTYPE html>
