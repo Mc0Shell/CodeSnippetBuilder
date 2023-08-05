@@ -29,8 +29,8 @@ Experience the convenience and efficiency of CodeBlockBuilder and bring your web
         <script src="/CodeSnippetBuilder/WebBuilder.js"></script>
         <script src="/CodeSnippetBuilder/main.js"></script>
         <script>
-    			// Initialize the WebBuilder
-    			const webBuilder = initWebBuilder();
+          // Initialize the WebBuilder
+          const webBuilder = initWebBuilder();
         			
           // Add a navbar block
         	webBuilder.addHTMLBlock("navbar", {
