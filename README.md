@@ -17,7 +17,7 @@ Experience the convenience and efficiency of CodeBlockBuilder and bring your web
 
 # Docs
 <b> How to start </b>
-
+```ruby
     <!DOCTYPE html>
     <html>
       <head>
@@ -46,6 +46,7 @@ Experience the convenience and efficiency of CodeBlockBuilder and bring your web
         </script>
       </body>
     </html>
+```
 
 <b> Is possible to interact with every element in the page, all in JS </b>
 
