@@ -12,3 +12,8 @@ Experience the convenience and efficiency of CodeBlockBuilder and bring your web
 <br><hr><br>
 
 # Docs
+<b> Is possible to interact with every element in the page, all in JS </b>
+
+<h2>Topbar call</h2>
+
+    <h3>webBuilder.editNavbarColors('navbarB', 'navlink', "blue", "white", "blue");</h3>
