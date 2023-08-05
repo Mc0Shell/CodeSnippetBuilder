@@ -30,16 +30,16 @@ The first JS file creates the webBuilder structure, the second file initializes 
     <script src="/CodeSnippetBuilder/WebBuilder.js"></script>
     <script src="/CodeSnippetBuilder/main.js"></script>
     <script>
-     // Initialize the WebBuilder
-     const webBuilder = initWebBuilder();
+      // Initialize the WebBuilder
+      const webBuilder = initWebBuilder();
 
-     // Add a navbar block
-     webBuilder.addHTMLBlock("navbar", {
-       'Logo':'/img/logo/logo.png', 
-       'Home':'/', 
-       'Docs':'/docs',
-       'Downloads':'/downloads',
-       'About':'/about'
+      // Add a navbar block
+      webBuilder.addHTMLBlock("navbar", {
+        'Logo':'/img/logo/logo.png', 
+        'Home':'/', 
+        'Docs':'/docs',
+        'Downloads':'/downloads',
+        'About':'/about'
       });
            
       // Render the page with the added and/or modified blocks
