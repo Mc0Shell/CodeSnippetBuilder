@@ -16,4 +16,6 @@ Experience the convenience and efficiency of CodeBlockBuilder and bring your web
 
 <h2>Topbar call</h2>
 
-    webBuilder.editNavbarColors('navbarB', 'navlink', "blue", "white", "blue");
+- Switch navbar block colors (<id_navbar>, <navbar_background>, <navlink_color>, <navlink_color_hover>)
+
+        webBuilder.editNavbarColors('navbarB', 'navlink', "blue", "white", "blue");
