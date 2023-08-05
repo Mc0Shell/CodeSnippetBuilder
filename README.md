@@ -62,7 +62,7 @@ In development mode you need to force the reload of the css and js files adding 
 <hr>
 
 <h2> Navbar / Topbar </h2>
-<br>
+
 <h3> Add a new navbar block </h3>
 <h4> webBuilder.addHTMLBlock(<id>, {<Label>:<url>}) </h4>
 
