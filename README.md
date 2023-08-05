@@ -67,4 +67,6 @@ In development mode you need to force the reload of the css and js files adding 
 
 - Switch navbar block colors (<id_navbar>, <navbar_background>, <navlink_color>, <navlink_color_hover>)
 
-        webBuilder.editNavbarColors('navbarB', 'navlink', "blue", "white", "blue");
+```javascript
+webBuilder.editNavbarColors('navbarB', 'navlink', "blue", "white", "blue");
+```
