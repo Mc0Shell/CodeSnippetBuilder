@@ -14,7 +14,7 @@ Experience the convenience and efficiency of CodeBlockBuilder and bring your web
 # Docs
 <b> Is possible to interact with every element in the page, all in JS </b>
 
-<h2>Topbar call</h2>
+<h2>Topbar calls</h2>
 
 - Switch navbar block colors (<id_navbar>, <navbar_background>, <navlink_color>, <navlink_color_hover>)
 
