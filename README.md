@@ -10,7 +10,7 @@ With this software, developers can easily streamline their workflow, accelerate 
 
 Experience the convenience and efficiency of CodeBlockBuilder and bring your web projects to life with ease.
 
-<br><hr><br>
+<br><br><hr><br>
 
 # Docs
 <b> Is possible to interact with every element in the page, all in JS </b>
