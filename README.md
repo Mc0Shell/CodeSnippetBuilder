@@ -63,8 +63,6 @@ In development mode you need to force the reload of the css and js files adding 
     
 <hr>
 
-<b> Is possible to interact with every element in the page, all in JS </b>
-
 <h2>Topbar calls</h2>
 
 - Switch navbar block colors (<id_navbar>, <navbar_background>, <navlink_color>, <navlink_color_hover>)
