@@ -56,7 +56,7 @@ In development mode you need to force the reload of the css and js files adding 
 ```html
 <link rel="stylesheet" href="/CodeSnippetBuilder/css/style.css?timestamp=<?php echo time(); ?>"></style>
 
--> ?timestamp=<?php echo time(); ?>
+U+2B95 ?timestamp=<?php echo time(); ?>
 ```
     
 <hr>
