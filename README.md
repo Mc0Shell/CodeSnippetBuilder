@@ -37,7 +37,7 @@ The first JS file creates the webBuilder structure, the second file initializes 
 
      // Add a navbar block
      webBuilder.addHTMLBlock("navbar", {
-       'Logo':'/img/logo/logo2.png', 
+       'Logo':'/img/logo/logo.png', 
        'Home':'/', 
        'Docs':'/docs',
        'Downloads':'/downloads',
