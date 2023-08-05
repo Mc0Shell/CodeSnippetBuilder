@@ -17,7 +17,7 @@ Experience the convenience and efficiency of CodeBlockBuilder and bring your web
 
 # Docs
 <b> How to start </b>
-```ruby
+```html
     <!DOCTYPE html>
     <html>
       <head>
