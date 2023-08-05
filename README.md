@@ -78,7 +78,7 @@ webBuilder.addHTMLBlock("navbar", {
     'About':'/about'
 });
 ```
-
+<h3>Calls</h3>
 - Switch navbar block colors (<id_navbar>, <navbar_background>, <navlink_color>, <navlink_color_hover>)
 
 ```javascript
