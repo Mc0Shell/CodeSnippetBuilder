@@ -53,10 +53,10 @@ The first JS file creates the webBuilder structure, the second file initializes 
 
 In development mode you need to force the reload of the css and js files adding the timestamp in the file url
 
+    ?timestamp=<?php echo time(); ?>
+
 ```html
 <link rel="stylesheet" href="/CodeSnippetBuilder/css/style.css?timestamp=<?php echo time(); ?>"></style>
-
-U+2B95 ?timestamp=<?php echo time(); ?>
 ```
     
 <hr>
