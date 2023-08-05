@@ -5,7 +5,7 @@
   </h2>
 </p>
 <br>
-<hr>
+
 
 CodeBlockBuilder serves as a versatile framework for both general graphical elements and seamless inter-page processes, including complex logical operations.
 
