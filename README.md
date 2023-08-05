@@ -29,20 +29,20 @@ Experience the convenience and efficiency of CodeBlockBuilder and bring your web
         <script src="/CodeSnippetBuilder/WebBuilder.js"></script>
         <script src="/CodeSnippetBuilder/main.js"></script>
         <script>
-          // Initialize the WebBuilder
+	  // Initialize the WebBuilder
           const webBuilder = initWebBuilder();
         			
           // Add a navbar block
-        	webBuilder.addHTMLBlock("navbar", {
-        		'Logo':'/img/logo/logo2.png', 
-        		'Home':'/', 
-        		'Docs':'/docs',
-        		'Downloads':'/downloads',
-        		'About':'/about'
-        	});
+	  webBuilder.addHTMLBlock("navbar", {
+		'Logo':'/img/logo/logo2.png', 
+		'Home':'/', 
+		'Docs':'/docs',
+		'Downloads':'/downloads',
+		'About':'/about'
+	  });
            
-        	// Render the page with the added and/or modified blocks
-        	webBuilder.insertGeneratedPage('generatedPage');
+	  // Render the page with the added and/or modified blocks
+	  webBuilder.insertGeneratedPage('generatedPage');
         </script>
       </body>
     </html>
