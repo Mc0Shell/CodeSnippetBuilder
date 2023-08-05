@@ -61,7 +61,19 @@ In development mode you need to force the reload of the css and js files adding 
     
 <hr>
 
-<h2>Topbar calls</h2>
+<h2> Navbar / Topbar </h2>
+<h3> Add a new navbar block </h3>
+
+```html
+// Add a navbar block
+webBuilder.addHTMLBlock("navbar", {
+    'Logo':'/img/logo/logo.png', 
+     'Home':'/', 
+    'Docs':'/docs',
+    'Downloads':'/downloads',
+    'About':'/about'
+});
+```
 
 - Switch navbar block colors (<id_navbar>, <navbar_background>, <navlink_color>, <navlink_color_hover>)
 
