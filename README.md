@@ -70,7 +70,7 @@ webBuilder.addHTMLBlock(<id>, <blockName>, {<Label>:<url>})
 ```
 
 ```javascript
-webBuilder.addHTMLBlock("navbar", {
+webBuilder.addHTMLBlock("navbar", "topbar", {
     'Logo':'/img/logo/logo.png', 
     'Home':'/', 
     'Docs':'/docs',
