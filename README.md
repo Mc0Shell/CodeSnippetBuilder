@@ -66,7 +66,7 @@ In development mode you need to force the reload of the css and js files adding 
 <h3> Add a new navbar block </h3>
 
 ```
-webBuilder.addHTMLBlock(<id>, {<Label>:<url>})
+webBuilder.addHTMLBlock(<id>, <blockName>, {<Label>:<url>})
 ```
 
 ```javascript
