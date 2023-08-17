@@ -34,7 +34,7 @@ The first JS file creates the webBuilder structure, the second file initializes 
       const webBuilder = initWebBuilder();
 
       // Add a navbar block
-      webBuilder.addHTMLBlock("navbar", {
+      webBuilder.addHTMLBlock("navbar", "topbar", {
         'Logo':'/img/logo/logo.png', 
         'Home':'/', 
         'Docs':'/docs',
