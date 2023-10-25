@@ -15,7 +15,6 @@ Experience the convenience and efficiency of CodeSnippetBuilder and bring your w
 
 <br><br><hr><br>
 ## STATUS: Under developing
-<hr>
 
 # Docs
 <b> <h3>How to start </h3></b>
