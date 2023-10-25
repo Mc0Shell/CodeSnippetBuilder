@@ -14,6 +14,9 @@ With this software, developers can easily streamline their workflow, accelerate 
 Experience the convenience and efficiency of CodeSnippetBuilder and bring your web projects to life with ease.
 
 <br><br><hr><br>
+# STATUS
+## Under developing
+<hr>
 
 # Docs
 <b> <h3>How to start </h3></b>
