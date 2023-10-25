@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://github.com/Mc0Shell/CodeSnippetBuilder/assets/55066055/e0f24431-41dd-4259-8312-ab99506b5f20" alt="Image" width="450" height="450"></p>
+# <p align="center"><img src="https://github.com/Mc0Shell/CodeSnippetBuilder/assets/55066055/8297b366-7714-4b47-ad62-ab3b44214d7b" alt="Image" width="450" height="450"></p>
 
 <p align="center">
   <h2><b>CodeBlockBuilder is a powerful software tool designed to simplify web development by generating code blocks in various languages such as HTML, JavaScript, and CSS.</b>
