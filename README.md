@@ -5,6 +5,7 @@
   </h2>
 </p>
 <br>
+## STATUS: Under developing
 
 
 CodeSnippetBuilder serves as a versatile framework for both general graphical elements and seamless inter-page processes, including complex logical operations.
@@ -14,7 +15,6 @@ With this software, developers can easily streamline their workflow, accelerate 
 Experience the convenience and efficiency of CodeSnippetBuilder and bring your web projects to life with ease.
 
 <br><br><hr><br>
-## STATUS: Under developing
 
 # Docs
 <b> <h3>How to start </h3></b>
